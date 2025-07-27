@@ -10,7 +10,6 @@ This notebook performs Exploratory Data Analysis (EDA) on a sales dataset to ext
 
 ## 📊 Tools and Libraries Used:
 - Pandas
-- Matplotlib
-- Seaborn
+- numpy
 
-The insights gained from this analysis can support further steps such as data preprocessing, feature engineering, and predictive modeling.
+The insights gained from this analysis can support further steps such as data preprocessing, feature engineering.
